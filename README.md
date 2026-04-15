@@ -464,6 +464,7 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 ## Translation
 
 If you want to add a new translation, read this [document](./docs/translation.md).
+a
 
 ## Donation
 
